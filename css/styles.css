@@ -389,7 +389,10 @@ img {
 }
 .container-footer {
   display: flex;
-  gap: 120px;
+  
+}
+.foter-info{
+  margin-right: 120px;
 }
 .footer-logo {
   font-family: "Raleway", sans-serif;
@@ -410,6 +413,9 @@ img {
   letter-spacing: 0.02em;
   color: #e7e9fc;
   width: 264px;
+}
+.foter-soc{
+  margin-right: 80px;
 }
 .footer-soc-titel {
   font-weight: 500;
@@ -445,6 +451,7 @@ img {
 .footer-soc-link:focus {
   background-color: #31d0aa;
 }
+
 .foter-titel-subscribe {
   font-weight: 500;
   font-size: 16px;
